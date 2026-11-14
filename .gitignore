@@ -1,0 +1,16 @@
+# Compiled programs
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build and IDE output
+build/
+cmake-build-*/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
